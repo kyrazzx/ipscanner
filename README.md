@@ -1,4 +1,4 @@
-# 🔍 OSINT & Pentesting Tool
+# 🔍 IPScanner
 
 ## 🚀 Overview
 This tool is a powerful OSINT (Open Source Intelligence) and pentesting tool with a modern and user-friendly GUI. It allows you to extract detailed information about an IP address, check its security reputation, and scan for vulnerabilities using multiple APIs and scanning tools.
