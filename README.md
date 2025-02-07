@@ -42,7 +42,7 @@ Replace the placeholders in the script with your actual API keys.
 4. The tool will fetch and display information, reputation, and vulnerability details.
 
 ## 📸 Screenshot
-![Tool Screenshot]([https://your-image-link.com](https://i.ibb.co/jkjHqNqn/image.png))
+![Tool Screenshot](https://i.ibb.co/jkjHqNqn/image.png)
 
 ## ⚠️ Disclaimer
 This tool is for educational and ethical testing purposes only. Misuse of this tool for unauthorized scanning is strictly prohibited.
